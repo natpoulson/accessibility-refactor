@@ -32,6 +32,9 @@ You can view the page under https://natpoulson.github.io/challenge-01-accessibil
 
 You can verify that there are no major accessibility issues by opening the browser DevTools (F12), and checking the "Accessibility" or "Issues" tab (the verbiage depends on the browser).
 
+## Preview
+![A screenshot of the page taken in Mozilla Firefox](./assets/preview-screenshot.jpg)
+
 ## Credits
 - Thanks to edX for supplying the base project files.
 - Thanks to Mozilla, for their excellent Accessibility checking tools in Firefox.
