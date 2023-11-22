@@ -1,4 +1,4 @@
-# Challenge 01 - Accessibility Refactor
+# Challenge 01 - Hori**seo**n Accessibility Refactor
 ## Description
 This is the first of several weekly challenges provided by the University of Sydney Coding Bootcamp. This week's challenge was to refactor the HTML and CSS of a pre-prepared webpage to use more accessible conventions and Semantic HTML markup.
 
@@ -28,7 +28,7 @@ The challenge outlined was addressed in the following manners:
     - The graphics were given a rounded background of `#FFF`, since the graphics were black and created a poor contrast with the updated colour.
 
 ## Usage
-You can view the page under https://natpoulson.github.io/challenge-01-accessibility-refactor
+You can view the page under https://natpoulson.github.io/accessibility-refactor
 
 You can verify that there are no major accessibility issues by opening the browser DevTools (F12), and checking the "Accessibility" or "Issues" tab (the verbiage depends on the browser).
 
@@ -38,6 +38,7 @@ You can verify that there are no major accessibility issues by opening the brows
 ## Credits
 - Thanks to edX for supplying the base project files.
 - Thanks to Mozilla, for their excellent Accessibility checking tools in Firefox.
+- Big thanks to the assessment grading team for the guidance on areas to improve.
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
